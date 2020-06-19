@@ -14,3 +14,6 @@ _(Using the Terminal)_
 Use Postman Collection Below to Test API:
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/92e1be258089383dfa16)
+
+**Heroku:**
+[https://express-api-nhrivera.herokuapp.com/](https://express-api-nhrivera.herokuapp.com/)
