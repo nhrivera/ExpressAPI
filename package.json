@@ -1,0 +1,20 @@
+{
+  "name": "ExpressAPI",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "git@github.com:nhrivera/ExpressAPI.git",
+  "author": "Nestor <nhrivera98@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  }
+}
